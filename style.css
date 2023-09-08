@@ -355,6 +355,7 @@ img{
 
     .section-image{
         flex: 1;
+        width: 50%;
     }
 
     .display-desktop{
@@ -412,6 +413,7 @@ img{
 
     .section-image2{
         flex: 0.8;
+        width: 50%;
     }
 
     .section-title{
